@@ -1,2 +1,2 @@
-# pc_thermal_profiling
+# _thermal_profiling
 Automated Thermal Profiling for a New-Build SFF PC
